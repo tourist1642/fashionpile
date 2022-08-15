@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.fashionphile.com	TRUE	/	FALSE	1999999999	__cf_bm	cU.a39tb8TCDhewQJnGF9OgvAMVWVGjgBJreazk9yog-1660572057-0-ARdiQICWjfbCwtHEWeCXcy9+BcuETHDP3Z9Zp5bB2C4dMrAPhQPzPs4sGkmTNGBC3byQK7s4QARKRQtypua+YjQ=
+www.fashionphile.com	TRUE	/	FALSE	1999999999	SameSite	None
+
